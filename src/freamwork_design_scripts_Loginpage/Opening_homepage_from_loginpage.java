@@ -19,8 +19,8 @@ public void openhomepage() throws IOException, InterruptedException {
 	String expectedtitle = Reading_Data.getdata("Sheet1", 0, 0);
 	String expectedurl = Reading_Data.getdata("Sheet1", 0, 1);
 	Thread.sleep(1000);
-	homepage.checktitleofhomepage(expectedtitle);
+	homepage.checktitle(expectedtitle);
 	Thread.sleep(1000);
-	homepage.checkurlofhomepage(expectedurl);
+	homepage.checkurl(expectedurl);
 }
 }

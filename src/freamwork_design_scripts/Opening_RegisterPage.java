@@ -16,8 +16,8 @@ public void openregisterpager() throws IOException, InterruptedException {
 	String expectedtitle = Reading_Data.getdata("Sheet1", 2, 0);
 	String expectedurl = Reading_Data.getdata("Sheet1", 2, 1);
 	Thread.sleep(1000);
-	homepage.checktitleofhomepage(expectedtitle);
+	homepage.checktitle(expectedtitle);
 	Thread.sleep(1000);
-	homepage.checkurlofhomepage(expectedurl);
+	homepage.checkurl(expectedurl);
 }
 }

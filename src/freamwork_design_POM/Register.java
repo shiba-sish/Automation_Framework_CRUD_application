@@ -28,7 +28,7 @@ public class Register extends VerificationClass {
 	private WebElement testcaselink;
 	@FindBy(linkText = "Logout")
 	private WebElement logoutlink;
-	@FindBy(linkText = "Register")
+	@FindBy(xpath = "//button[@class='btn text-light']")
 	private WebElement registerbtn;
 	@FindBy(xpath = "//input[@id='exampleInputEmail1']")
 	private WebElement usernameinputfeild;
@@ -63,10 +63,10 @@ public void enterUsername(String username) {
 public void enterPassword(String password) {
 	passwordinput.sendKeys(password);
 }
-public void checktitleofdefectpage(String expectedtitle) throws IOException {
+public void checktitle(String expectedtitle) throws IOException {
 	verifyalltitles(expectedtitle);
 }
-public void checkurlofdefectpage(String expectedurl) throws IOException {
+public void checkurl(String expectedurl) throws IOException {
 	verifyallurl(expectedurl);
 }
 }

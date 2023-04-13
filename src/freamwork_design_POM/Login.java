@@ -28,8 +28,12 @@ public class Login extends VerificationClass {
 		private WebElement testcaselink;
 		@FindBy(linkText = "Logout")
 		private WebElement logoutlink;
-		@FindBy(linkText = "Sign In")
+		@FindBy(xpath = "//button[@class='btn text-light']")
 		private WebElement singinbtn;
+		@FindBy(xpath = "//input[@id='exampleInputEmail1']")
+		private WebElement usernamefield;
+		@FindBy(xpath = "//input[@id='exampleInputPassword1']")
+		private WebElement passwordfield;
 		
 	public void clickloginlink() {
 		loginlink.click();
@@ -52,10 +56,17 @@ public class Login extends VerificationClass {
 	public void clicksinginbtn() {
 		singinbtn.click();
 	}
-	public void checktitleofcontactpage(String expectedtitle) throws IOException {
+	public void enterUsername(String username) {
+		usernamefield.sendKeys(username);;
+	}
+	public void enterPassword(String password) {
+		passwordfield.sendKeys(password);;
+	}
+	
+	public void checktitle(String expectedtitle) throws IOException {
 		verifyalltitles(expectedtitle);
 	}
-	public void checkurlofcontactpage(String expectedurl) throws IOException {
+	public void checkurl(String expectedurl) throws IOException {
 		verifyallurl(expectedurl);
 	}
 	}

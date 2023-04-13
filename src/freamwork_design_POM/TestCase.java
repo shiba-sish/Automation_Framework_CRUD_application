@@ -48,10 +48,10 @@ public void clicktestcaselink() {
 public void clicklogoutlink() {
 	logoutlink.click();
 }
-public void checktitleoftestcasepage(String expectedtitle) throws IOException {
+public void checktitle(String expectedtitle) throws IOException {
 	verifyalltitles(expectedtitle);
 }
-public void checkurloftestcasepage(String expectedurl) throws IOException {
+public void checkurl(String expectedurl) throws IOException {
 	verifyallurl(expectedurl);
 }
 }

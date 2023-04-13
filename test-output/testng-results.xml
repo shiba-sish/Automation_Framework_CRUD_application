@@ -128,16 +128,16 @@
       <![CDATA[URL Match Successfully!!!]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-04-13T11:58:31 IST" name="Suite" finished-at="2023-04-13T12:00:28 IST" duration-ms="116268">
+  <suite started-at="2023-04-13T15:26:24 IST" name="Suite" finished-at="2023-04-13T15:28:38 IST" duration-ms="134371">
     <groups>
     </groups>
-    <test started-at="2023-04-13T11:58:31 IST" name="Test" finished-at="2023-04-13T12:00:28 IST" duration-ms="116268">
+    <test started-at="2023-04-13T15:26:24 IST" name="Test" finished-at="2023-04-13T15:28:38 IST" duration-ms="134371">
       <class name="freamwork_design_scripts_TestCase.Opening_Testcasepage_to_login">
-        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_TestCase.Opening_Testcasepage_to_login@436813f3]" started-at="2023-04-13T11:59:20 IST" name="openapplication" finished-at="2023-04-13T11:59:23 IST" duration-ms="2440" status="PASS">
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_TestCase.Opening_Testcasepage_to_login@436813f3]" started-at="2023-04-13T15:27:14 IST" name="openapplication" finished-at="2023-04-13T15:27:17 IST" duration-ms="2140" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openapplication -->
-        <test-method signature="openLogin()[pri:0, instance:freamwork_design_scripts_TestCase.Opening_Testcasepage_to_login@436813f3]" started-at="2023-04-13T11:59:23 IST" name="openLogin" finished-at="2023-04-13T11:59:25 IST" duration-ms="2533" status="PASS">
+        <test-method signature="openLogin()[pri:0, instance:freamwork_design_scripts_TestCase.Opening_Testcasepage_to_login@436813f3]" started-at="2023-04-13T15:27:17 IST" name="openLogin" finished-at="2023-04-13T15:27:19 IST" duration-ms="2534" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Title Match Successfully!!!]]>
@@ -147,37 +147,17 @@
             </line>
           </reporter-output>
         </test-method> <!-- openLogin -->
-        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_TestCase.Opening_Testcasepage_to_login@436813f3]" started-at="2023-04-13T11:59:25 IST" name="closeapplication" finished-at="2023-04-13T11:59:25 IST" duration-ms="222" status="PASS">
+        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_TestCase.Opening_Testcasepage_to_login@436813f3]" started-at="2023-04-13T15:27:19 IST" name="closeapplication" finished-at="2023-04-13T15:27:19 IST" duration-ms="183" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeapplication -->
       </class> <!-- freamwork_design_scripts_TestCase.Opening_Testcasepage_to_login -->
-      <class name="freamwork_design_scripts.Do_Registration_logout">
-        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts.Do_Registration_logout@77847718]" started-at="2023-04-13T11:59:52 IST" name="openapplication" finished-at="2023-04-13T11:59:54 IST" duration-ms="2398" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- openapplication -->
-        <test-method signature="openloginpager()[pri:0, instance:freamwork_design_scripts.Do_Registration_logout@77847718]" started-at="2023-04-13T11:59:54 IST" name="openloginpager" finished-at="2023-04-13T12:00:01 IST" duration-ms="6919" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Title Match Successfully!!!]]>
-            </line>
-            <line>
-              <![CDATA[URL Match Successfully!!!]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- openloginpager -->
-        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts.Do_Registration_logout@77847718]" started-at="2023-04-13T12:00:01 IST" name="closeapplication" finished-at="2023-04-13T12:00:01 IST" duration-ms="194" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closeapplication -->
-      </class> <!-- freamwork_design_scripts.Do_Registration_logout -->
       <class name="freamwork_design_scripts_TestCase.Opening_Testcasepage_to_home">
-        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_TestCase.Opening_Testcasepage_to_home@5c33f1a9]" started-at="2023-04-13T12:00:22 IST" name="openapplication" finished-at="2023-04-13T12:00:25 IST" duration-ms="3033" status="PASS">
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_TestCase.Opening_Testcasepage_to_home@5c33f1a9]" started-at="2023-04-13T15:28:34 IST" name="openapplication" finished-at="2023-04-13T15:28:36 IST" duration-ms="2131" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openapplication -->
-        <test-method signature="openingHome()[pri:0, instance:freamwork_design_scripts_TestCase.Opening_Testcasepage_to_home@5c33f1a9]" started-at="2023-04-13T12:00:25 IST" name="openingHome" finished-at="2023-04-13T12:00:27 IST" duration-ms="2481" status="PASS">
+        <test-method signature="openingHome()[pri:0, instance:freamwork_design_scripts_TestCase.Opening_Testcasepage_to_home@5c33f1a9]" started-at="2023-04-13T15:28:36 IST" name="openingHome" finished-at="2023-04-13T15:28:38 IST" duration-ms="2469" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Title Match Successfully!!!]]>
@@ -187,17 +167,17 @@
             </line>
           </reporter-output>
         </test-method> <!-- openingHome -->
-        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_TestCase.Opening_Testcasepage_to_home@5c33f1a9]" started-at="2023-04-13T12:00:27 IST" name="closeapplication" finished-at="2023-04-13T12:00:28 IST" duration-ms="233" status="PASS">
+        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_TestCase.Opening_Testcasepage_to_home@5c33f1a9]" started-at="2023-04-13T15:28:38 IST" name="closeapplication" finished-at="2023-04-13T15:28:38 IST" duration-ms="162" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeapplication -->
       </class> <!-- freamwork_design_scripts_TestCase.Opening_Testcasepage_to_home -->
       <class name="freamwork_design_scripts_Registration.Opening_registration_to_testcase">
-        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_Registration.Opening_registration_to_testcase@158d2680]" started-at="2023-04-13T11:59:47 IST" name="openapplication" finished-at="2023-04-13T11:59:49 IST" duration-ms="2493" status="PASS">
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_Registration.Opening_registration_to_testcase@158d2680]" started-at="2023-04-13T15:27:39 IST" name="openapplication" finished-at="2023-04-13T15:27:41 IST" duration-ms="2151" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openapplication -->
-        <test-method signature="opentestcase()[pri:0, instance:freamwork_design_scripts_Registration.Opening_registration_to_testcase@158d2680]" started-at="2023-04-13T11:59:49 IST" name="opentestcase" finished-at="2023-04-13T11:59:52 IST" duration-ms="2492" status="PASS">
+        <test-method signature="opentestcase()[pri:0, instance:freamwork_design_scripts_Registration.Opening_registration_to_testcase@158d2680]" started-at="2023-04-13T15:27:41 IST" name="opentestcase" finished-at="2023-04-13T15:27:44 IST" duration-ms="2472" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Title Match Successfully!!!]]>
@@ -207,17 +187,17 @@
             </line>
           </reporter-output>
         </test-method> <!-- opentestcase -->
-        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_Registration.Opening_registration_to_testcase@158d2680]" started-at="2023-04-13T11:59:52 IST" name="closeapplication" finished-at="2023-04-13T11:59:52 IST" duration-ms="240" status="PASS">
+        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_Registration.Opening_registration_to_testcase@158d2680]" started-at="2023-04-13T15:27:44 IST" name="closeapplication" finished-at="2023-04-13T15:27:44 IST" duration-ms="157" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeapplication -->
       </class> <!-- freamwork_design_scripts_Registration.Opening_registration_to_testcase -->
       <class name="freamwork_design_scripts_Dashboard.Opening_dashboard_to_login">
-        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_Dashboard.Opening_dashboard_to_login@3febb011]" started-at="2023-04-13T11:59:31 IST" name="openapplication" finished-at="2023-04-13T11:59:33 IST" duration-ms="2520" status="PASS">
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_Dashboard.Opening_dashboard_to_login@3febb011]" started-at="2023-04-13T15:27:24 IST" name="openapplication" finished-at="2023-04-13T15:27:27 IST" duration-ms="2179" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openapplication -->
-        <test-method signature="openLogin()[pri:0, instance:freamwork_design_scripts_Dashboard.Opening_dashboard_to_login@3febb011]" started-at="2023-04-13T11:59:33 IST" name="openLogin" finished-at="2023-04-13T11:59:36 IST" duration-ms="2482" status="PASS">
+        <test-method signature="openLogin()[pri:0, instance:freamwork_design_scripts_Dashboard.Opening_dashboard_to_login@3febb011]" started-at="2023-04-13T15:27:27 IST" name="openLogin" finished-at="2023-04-13T15:27:29 IST" duration-ms="2505" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Title Match Successfully!!!]]>
@@ -227,17 +207,17 @@
             </line>
           </reporter-output>
         </test-method> <!-- openLogin -->
-        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_Dashboard.Opening_dashboard_to_login@3febb011]" started-at="2023-04-13T11:59:36 IST" name="closeapplication" finished-at="2023-04-13T11:59:36 IST" duration-ms="226" status="PASS">
+        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_Dashboard.Opening_dashboard_to_login@3febb011]" started-at="2023-04-13T15:27:29 IST" name="closeapplication" finished-at="2023-04-13T15:27:29 IST" duration-ms="152" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeapplication -->
       </class> <!-- freamwork_design_scripts_Dashboard.Opening_dashboard_to_login -->
       <class name="freamwork_design_scripts.Opening_RegisterPage">
-        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts.Opening_RegisterPage@7f3b84b8]" started-at="2023-04-13T12:00:01 IST" name="openapplication" finished-at="2023-04-13T12:00:04 IST" duration-ms="2508" status="PASS">
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts.Opening_RegisterPage@77847718]" started-at="2023-04-13T15:27:44 IST" name="openapplication" finished-at="2023-04-13T15:27:46 IST" duration-ms="2367" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openapplication -->
-        <test-method signature="openregisterpager()[pri:0, instance:freamwork_design_scripts.Opening_RegisterPage@7f3b84b8]" started-at="2023-04-13T12:00:04 IST" name="openregisterpager" finished-at="2023-04-13T12:00:06 IST" duration-ms="2297" status="PASS">
+        <test-method signature="openregisterpager()[pri:0, instance:freamwork_design_scripts.Opening_RegisterPage@77847718]" started-at="2023-04-13T15:27:46 IST" name="openregisterpager" finished-at="2023-04-13T15:27:48 IST" duration-ms="2271" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Title Match Successfully!!!]]>
@@ -247,17 +227,17 @@
             </line>
           </reporter-output>
         </test-method> <!-- openregisterpager -->
-        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts.Opening_RegisterPage@7f3b84b8]" started-at="2023-04-13T12:00:06 IST" name="closeapplication" finished-at="2023-04-13T12:00:06 IST" duration-ms="225" status="PASS">
+        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts.Opening_RegisterPage@77847718]" started-at="2023-04-13T15:27:48 IST" name="closeapplication" finished-at="2023-04-13T15:27:49 IST" duration-ms="249" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeapplication -->
       </class> <!-- freamwork_design_scripts.Opening_RegisterPage -->
       <class name="freamwork_design_scripts_Loginpage.Opening_homepage_from_loginpage">
-        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_Loginpage.Opening_homepage_from_loginpage@49ec71f8]" started-at="2023-04-13T11:58:55 IST" name="openapplication" finished-at="2023-04-13T11:58:57 IST" duration-ms="2484" status="PASS">
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_Loginpage.Opening_homepage_from_loginpage@49ec71f8]" started-at="2023-04-13T15:26:46 IST" name="openapplication" finished-at="2023-04-13T15:26:48 IST" duration-ms="2290" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openapplication -->
-        <test-method signature="openhomepage()[pri:0, instance:freamwork_design_scripts_Loginpage.Opening_homepage_from_loginpage@49ec71f8]" started-at="2023-04-13T11:58:57 IST" name="openhomepage" finished-at="2023-04-13T11:58:59 IST" duration-ms="2443" status="PASS">
+        <test-method signature="openhomepage()[pri:0, instance:freamwork_design_scripts_Loginpage.Opening_homepage_from_loginpage@49ec71f8]" started-at="2023-04-13T15:26:48 IST" name="openhomepage" finished-at="2023-04-13T15:26:51 IST" duration-ms="2471" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Title Match Successfully!!!]]>
@@ -267,17 +247,17 @@
             </line>
           </reporter-output>
         </test-method> <!-- openhomepage -->
-        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_Loginpage.Opening_homepage_from_loginpage@49ec71f8]" started-at="2023-04-13T11:58:59 IST" name="closeapplication" finished-at="2023-04-13T11:59:00 IST" duration-ms="240" status="PASS">
+        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_Loginpage.Opening_homepage_from_loginpage@49ec71f8]" started-at="2023-04-13T15:26:51 IST" name="closeapplication" finished-at="2023-04-13T15:26:51 IST" duration-ms="172" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeapplication -->
       </class> <!-- freamwork_design_scripts_Loginpage.Opening_homepage_from_loginpage -->
       <class name="freamwork_design_scripts_Loginpage.Opening_DashboardPage_from_loginpage">
-        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_Loginpage.Opening_DashboardPage_from_loginpage@7f0eb4b4]" started-at="2023-04-13T12:00:16 IST" name="openapplication" finished-at="2023-04-13T12:00:19 IST" duration-ms="3008" status="PASS">
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_Loginpage.Opening_DashboardPage_from_loginpage@7f0eb4b4]" started-at="2023-04-13T15:28:29 IST" name="openapplication" finished-at="2023-04-13T15:28:31 IST" duration-ms="2123" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openapplication -->
-        <test-method signature="loginToDashboard()[pri:0, instance:freamwork_design_scripts_Loginpage.Opening_DashboardPage_from_loginpage@7f0eb4b4]" started-at="2023-04-13T12:00:19 IST" name="loginToDashboard" finished-at="2023-04-13T12:00:22 IST" duration-ms="2487" status="PASS">
+        <test-method signature="loginToDashboard()[pri:0, instance:freamwork_design_scripts_Loginpage.Opening_DashboardPage_from_loginpage@7f0eb4b4]" started-at="2023-04-13T15:28:31 IST" name="loginToDashboard" finished-at="2023-04-13T15:28:33 IST" duration-ms="2470" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Title Match Successfully!!!]]>
@@ -287,17 +267,37 @@
             </line>
           </reporter-output>
         </test-method> <!-- loginToDashboard -->
-        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_Loginpage.Opening_DashboardPage_from_loginpage@7f0eb4b4]" started-at="2023-04-13T12:00:22 IST" name="closeapplication" finished-at="2023-04-13T12:00:22 IST" duration-ms="208" status="PASS">
+        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_Loginpage.Opening_DashboardPage_from_loginpage@7f0eb4b4]" started-at="2023-04-13T15:28:33 IST" name="closeapplication" finished-at="2023-04-13T15:28:34 IST" duration-ms="207" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeapplication -->
       </class> <!-- freamwork_design_scripts_Loginpage.Opening_DashboardPage_from_loginpage -->
-      <class name="freamwork_design_scripts_Loginpage.Opening_TestCasePage_from_loginpage">
-        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_Loginpage.Opening_TestCasePage_from_loginpage@16d04d3d]" started-at="2023-04-13T11:58:50 IST" name="openapplication" finished-at="2023-04-13T11:58:52 IST" duration-ms="2272" status="PASS">
+      <class name="freamwork_design_scripts_Registration.Opening_Registrationpage_to_home">
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_Registration.Opening_Registrationpage_to_home@564fabc8]" started-at="2023-04-13T15:26:36 IST" name="openapplication" finished-at="2023-04-13T15:26:38 IST" duration-ms="2326" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openapplication -->
-        <test-method signature="opentestcasepager()[pri:0, instance:freamwork_design_scripts_Loginpage.Opening_TestCasePage_from_loginpage@16d04d3d]" started-at="2023-04-13T11:58:52 IST" name="opentestcasepager" finished-at="2023-04-13T11:58:54 IST" duration-ms="2602" status="PASS">
+        <test-method signature="openingHome()[pri:0, instance:freamwork_design_scripts_Registration.Opening_Registrationpage_to_home@564fabc8]" started-at="2023-04-13T15:26:38 IST" name="openingHome" finished-at="2023-04-13T15:26:41 IST" duration-ms="2459" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Title Match Successfully!!!]]>
+            </line>
+            <line>
+              <![CDATA[URL Match Successfully!!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openingHome -->
+        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_Registration.Opening_Registrationpage_to_home@564fabc8]" started-at="2023-04-13T15:26:41 IST" name="closeapplication" finished-at="2023-04-13T15:26:41 IST" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapplication -->
+      </class> <!-- freamwork_design_scripts_Registration.Opening_Registrationpage_to_home -->
+      <class name="freamwork_design_scripts_Loginpage.Opening_TestCasePage_from_loginpage">
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_Loginpage.Opening_TestCasePage_from_loginpage@16d04d3d]" started-at="2023-04-13T15:26:41 IST" name="openapplication" finished-at="2023-04-13T15:26:43 IST" duration-ms="2098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapplication -->
+        <test-method signature="opentestcasepager()[pri:0, instance:freamwork_design_scripts_Loginpage.Opening_TestCasePage_from_loginpage@16d04d3d]" started-at="2023-04-13T15:26:43 IST" name="opentestcasepager" finished-at="2023-04-13T15:26:46 IST" duration-ms="2566" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Title Match Successfully!!!]]>
@@ -307,37 +307,17 @@
             </line>
           </reporter-output>
         </test-method> <!-- opentestcasepager -->
-        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_Loginpage.Opening_TestCasePage_from_loginpage@16d04d3d]" started-at="2023-04-13T11:58:54 IST" name="closeapplication" finished-at="2023-04-13T11:58:55 IST" duration-ms="174" status="PASS">
+        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_Loginpage.Opening_TestCasePage_from_loginpage@16d04d3d]" started-at="2023-04-13T15:26:46 IST" name="closeapplication" finished-at="2023-04-13T15:26:46 IST" duration-ms="182" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeapplication -->
       </class> <!-- freamwork_design_scripts_Loginpage.Opening_TestCasePage_from_loginpage -->
-      <class name="freamwork_design_scripts_Registration.Opening_Registrationpage_to_home">
-        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_Registration.Opening_Registrationpage_to_home@564fabc8]" started-at="2023-04-13T11:58:44 IST" name="openapplication" finished-at="2023-04-13T11:58:47 IST" duration-ms="2384" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- openapplication -->
-        <test-method signature="openingHome()[pri:0, instance:freamwork_design_scripts_Registration.Opening_Registrationpage_to_home@564fabc8]" started-at="2023-04-13T11:58:47 IST" name="openingHome" finished-at="2023-04-13T11:58:49 IST" duration-ms="2460" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Title Match Successfully!!!]]>
-            </line>
-            <line>
-              <![CDATA[URL Match Successfully!!!]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- openingHome -->
-        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_Registration.Opening_Registrationpage_to_home@564fabc8]" started-at="2023-04-13T11:58:49 IST" name="closeapplication" finished-at="2023-04-13T11:58:50 IST" duration-ms="269" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closeapplication -->
-      </class> <!-- freamwork_design_scripts_Registration.Opening_Registrationpage_to_home -->
       <class name="freamwork_design_scripts.Opening_DashboardPage">
-        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts.Opening_DashboardPage@2b662a77]" started-at="2023-04-13T12:00:11 IST" name="openapplication" finished-at="2023-04-13T12:00:14 IST" duration-ms="2320" status="PASS">
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts.Opening_DashboardPage@2b662a77]" started-at="2023-04-13T15:28:24 IST" name="openapplication" finished-at="2023-04-13T15:28:26 IST" duration-ms="2117" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openapplication -->
-        <test-method signature="opendashboard()[pri:0, instance:freamwork_design_scripts.Opening_DashboardPage@2b662a77]" started-at="2023-04-13T12:00:14 IST" name="opendashboard" finished-at="2023-04-13T12:00:16 IST" duration-ms="2283" status="PASS">
+        <test-method signature="opendashboard()[pri:0, instance:freamwork_design_scripts.Opening_DashboardPage@2b662a77]" started-at="2023-04-13T15:28:26 IST" name="opendashboard" finished-at="2023-04-13T15:28:29 IST" duration-ms="2294" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Title Match Successfully!!!]]>
@@ -347,17 +327,37 @@
             </line>
           </reporter-output>
         </test-method> <!-- opendashboard -->
-        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts.Opening_DashboardPage@2b662a77]" started-at="2023-04-13T12:00:16 IST" name="closeapplication" finished-at="2023-04-13T12:00:16 IST" duration-ms="177" status="PASS">
+        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts.Opening_DashboardPage@2b662a77]" started-at="2023-04-13T15:28:29 IST" name="closeapplication" finished-at="2023-04-13T15:28:29 IST" duration-ms="180" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeapplication -->
       </class> <!-- freamwork_design_scripts.Opening_DashboardPage -->
-      <class name="freamwork_design_scripts_Dashboard.Opening_Dashboard_to_Register">
-        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_Dashboard.Opening_Dashboard_to_Register@36bc55de]" started-at="2023-04-13T11:58:39 IST" name="openapplication" finished-at="2023-04-13T11:58:42 IST" duration-ms="2580" status="PASS">
+      <class name="freamwork_design_scripts_System_Test_Cases.Do_Registration_logout">
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_System_Test_Cases.Do_Registration_logout@57a3af25]" started-at="2023-04-13T15:27:53 IST" name="openapplication" finished-at="2023-04-13T15:27:55 IST" duration-ms="1955" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openapplication -->
-        <test-method signature="openRegister()[pri:0, instance:freamwork_design_scripts_Dashboard.Opening_Dashboard_to_Register@36bc55de]" started-at="2023-04-13T11:58:42 IST" name="openRegister" finished-at="2023-04-13T11:58:44 IST" duration-ms="2555" status="PASS">
+        <test-method signature="openloginpager()[pri:0, instance:freamwork_design_scripts_System_Test_Cases.Do_Registration_logout@57a3af25]" started-at="2023-04-13T15:27:55 IST" name="openloginpager" finished-at="2023-04-13T15:28:24 IST" duration-ms="28978" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Title Match Successfully!!!]]>
+            </line>
+            <line>
+              <![CDATA[URL Match Successfully!!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openloginpager -->
+        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_System_Test_Cases.Do_Registration_logout@57a3af25]" started-at="2023-04-13T15:28:24 IST" name="closeapplication" finished-at="2023-04-13T15:28:24 IST" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapplication -->
+      </class> <!-- freamwork_design_scripts_System_Test_Cases.Do_Registration_logout -->
+      <class name="freamwork_design_scripts_Dashboard.Opening_Dashboard_to_Register">
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_Dashboard.Opening_Dashboard_to_Register@36bc55de]" started-at="2023-04-13T15:26:31 IST" name="openapplication" finished-at="2023-04-13T15:26:33 IST" duration-ms="2206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapplication -->
+        <test-method signature="openRegister()[pri:0, instance:freamwork_design_scripts_Dashboard.Opening_Dashboard_to_Register@36bc55de]" started-at="2023-04-13T15:26:33 IST" name="openRegister" finished-at="2023-04-13T15:26:36 IST" duration-ms="2559" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Title Match Successfully!!!]]>
@@ -367,17 +367,17 @@
             </line>
           </reporter-output>
         </test-method> <!-- openRegister -->
-        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_Dashboard.Opening_Dashboard_to_Register@36bc55de]" started-at="2023-04-13T11:58:44 IST" name="closeapplication" finished-at="2023-04-13T11:58:44 IST" duration-ms="157" status="PASS">
+        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_Dashboard.Opening_Dashboard_to_Register@36bc55de]" started-at="2023-04-13T15:26:36 IST" name="closeapplication" finished-at="2023-04-13T15:26:36 IST" duration-ms="159" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeapplication -->
       </class> <!-- freamwork_design_scripts_Dashboard.Opening_Dashboard_to_Register -->
       <class name="freamwork_design_scripts_Dashboard.Opening_Dashboardpage_to_home">
-        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_Dashboard.Opening_Dashboardpage_to_home@36902638]" started-at="2023-04-13T11:59:05 IST" name="openapplication" finished-at="2023-04-13T11:59:07 IST" duration-ms="2417" status="PASS">
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_Dashboard.Opening_Dashboardpage_to_home@36902638]" started-at="2023-04-13T15:27:00 IST" name="openapplication" finished-at="2023-04-13T15:27:02 IST" duration-ms="2339" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openapplication -->
-        <test-method signature="openingHome()[pri:0, instance:freamwork_design_scripts_Dashboard.Opening_Dashboardpage_to_home@36902638]" started-at="2023-04-13T11:59:07 IST" name="openingHome" finished-at="2023-04-13T11:59:10 IST" duration-ms="2481" status="PASS">
+        <test-method signature="openingHome()[pri:0, instance:freamwork_design_scripts_Dashboard.Opening_Dashboardpage_to_home@36902638]" started-at="2023-04-13T15:27:02 IST" name="openingHome" finished-at="2023-04-13T15:27:05 IST" duration-ms="2444" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Title Match Successfully!!!]]>
@@ -387,17 +387,17 @@
             </line>
           </reporter-output>
         </test-method> <!-- openingHome -->
-        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_Dashboard.Opening_Dashboardpage_to_home@36902638]" started-at="2023-04-13T11:59:10 IST" name="closeapplication" finished-at="2023-04-13T11:59:10 IST" duration-ms="245" status="PASS">
+        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_Dashboard.Opening_Dashboardpage_to_home@36902638]" started-at="2023-04-13T15:27:05 IST" name="closeapplication" finished-at="2023-04-13T15:27:05 IST" duration-ms="150" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeapplication -->
       </class> <!-- freamwork_design_scripts_Dashboard.Opening_Dashboardpage_to_home -->
       <class name="freamwork_design_scripts_Loginpage.Opening_RegisterPage_from_loginpage">
-        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_Loginpage.Opening_RegisterPage_from_loginpage@1d2adfbe]" started-at="2023-04-13T11:59:00 IST" name="openapplication" finished-at="2023-04-13T11:59:02 IST" duration-ms="2216" status="PASS">
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_Loginpage.Opening_RegisterPage_from_loginpage@1d2adfbe]" started-at="2023-04-13T15:26:51 IST" name="openapplication" finished-at="2023-04-13T15:26:53 IST" duration-ms="2065" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openapplication -->
-        <test-method signature="openregisterpager()[pri:0, instance:freamwork_design_scripts_Loginpage.Opening_RegisterPage_from_loginpage@1d2adfbe]" started-at="2023-04-13T11:59:02 IST" name="openregisterpager" finished-at="2023-04-13T11:59:04 IST" duration-ms="2514" status="PASS">
+        <test-method signature="openregisterpager()[pri:0, instance:freamwork_design_scripts_Loginpage.Opening_RegisterPage_from_loginpage@1d2adfbe]" started-at="2023-04-13T15:26:53 IST" name="openregisterpager" finished-at="2023-04-13T15:27:00 IST" duration-ms="6759" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Title Match Successfully!!!]]>
@@ -407,17 +407,17 @@
             </line>
           </reporter-output>
         </test-method> <!-- openregisterpager -->
-        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_Loginpage.Opening_RegisterPage_from_loginpage@1d2adfbe]" started-at="2023-04-13T11:59:04 IST" name="closeapplication" finished-at="2023-04-13T11:59:05 IST" duration-ms="231" status="PASS">
+        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_Loginpage.Opening_RegisterPage_from_loginpage@1d2adfbe]" started-at="2023-04-13T15:27:00 IST" name="closeapplication" finished-at="2023-04-13T15:27:00 IST" duration-ms="238" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeapplication -->
       </class> <!-- freamwork_design_scripts_Loginpage.Opening_RegisterPage_from_loginpage -->
       <class name="freamwork_design_scripts.Opening_TestCasePage">
-        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts.Opening_TestCasePage@57a3af25]" started-at="2023-04-13T12:00:06 IST" name="openapplication" finished-at="2023-04-13T12:00:09 IST" duration-ms="2395" status="PASS">
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts.Opening_TestCasePage@7f3b84b8]" started-at="2023-04-13T15:27:49 IST" name="openapplication" finished-at="2023-04-13T15:27:51 IST" duration-ms="1993" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openapplication -->
-        <test-method signature="openloginpager()[pri:0, instance:freamwork_design_scripts.Opening_TestCasePage@57a3af25]" started-at="2023-04-13T12:00:09 IST" name="openloginpager" finished-at="2023-04-13T12:00:11 IST" duration-ms="2368" status="PASS">
+        <test-method signature="openloginpager()[pri:0, instance:freamwork_design_scripts.Opening_TestCasePage@7f3b84b8]" started-at="2023-04-13T15:27:51 IST" name="openloginpager" finished-at="2023-04-13T15:27:53 IST" duration-ms="2327" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Title Match Successfully!!!]]>
@@ -427,17 +427,17 @@
             </line>
           </reporter-output>
         </test-method> <!-- openloginpager -->
-        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts.Opening_TestCasePage@57a3af25]" started-at="2023-04-13T12:00:11 IST" name="closeapplication" finished-at="2023-04-13T12:00:11 IST" duration-ms="233" status="PASS">
+        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts.Opening_TestCasePage@7f3b84b8]" started-at="2023-04-13T15:27:53 IST" name="closeapplication" finished-at="2023-04-13T15:27:53 IST" duration-ms="164" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeapplication -->
       </class> <!-- freamwork_design_scripts.Opening_TestCasePage -->
       <class name="freamwork_design_scripts_Registration.Opening_registrationpage_to_login">
-        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_Registration.Opening_registrationpage_to_login@131774fe]" started-at="2023-04-13T11:59:41 IST" name="openapplication" finished-at="2023-04-13T11:59:44 IST" duration-ms="2499" status="PASS">
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_Registration.Opening_registrationpage_to_login@131774fe]" started-at="2023-04-13T15:27:34 IST" name="openapplication" finished-at="2023-04-13T15:27:36 IST" duration-ms="2330" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openapplication -->
-        <test-method signature="openLogin()[pri:0, instance:freamwork_design_scripts_Registration.Opening_registrationpage_to_login@131774fe]" started-at="2023-04-13T11:59:44 IST" name="openLogin" finished-at="2023-04-13T11:59:46 IST" duration-ms="2465" status="PASS">
+        <test-method signature="openLogin()[pri:0, instance:freamwork_design_scripts_Registration.Opening_registrationpage_to_login@131774fe]" started-at="2023-04-13T15:27:36 IST" name="openLogin" finished-at="2023-04-13T15:27:39 IST" duration-ms="2453" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Title Match Successfully!!!]]>
@@ -447,17 +447,17 @@
             </line>
           </reporter-output>
         </test-method> <!-- openLogin -->
-        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_Registration.Opening_registrationpage_to_login@131774fe]" started-at="2023-04-13T11:59:46 IST" name="closeapplication" finished-at="2023-04-13T11:59:47 IST" duration-ms="246" status="PASS">
+        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_Registration.Opening_registrationpage_to_login@131774fe]" started-at="2023-04-13T15:27:39 IST" name="closeapplication" finished-at="2023-04-13T15:27:39 IST" duration-ms="193" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeapplication -->
       </class> <!-- freamwork_design_scripts_Registration.Opening_registrationpage_to_login -->
       <class name="freamwork_design_scripts_Registration.Opening_RegisterPage_to_dashboard">
-        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_Registration.Opening_RegisterPage_to_dashboard@8f4ea7c]" started-at="2023-04-13T11:59:15 IST" name="openapplication" finished-at="2023-04-13T11:59:17 IST" duration-ms="2554" status="PASS">
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_Registration.Opening_RegisterPage_to_dashboard@8f4ea7c]" started-at="2023-04-13T15:27:10 IST" name="openapplication" finished-at="2023-04-13T15:27:12 IST" duration-ms="2146" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openapplication -->
-        <test-method signature="openDashboard()[pri:0, instance:freamwork_design_scripts_Registration.Opening_RegisterPage_to_dashboard@8f4ea7c]" started-at="2023-04-13T11:59:17 IST" name="openDashboard" finished-at="2023-04-13T11:59:20 IST" duration-ms="2481" status="PASS">
+        <test-method signature="openDashboard()[pri:0, instance:freamwork_design_scripts_Registration.Opening_RegisterPage_to_dashboard@8f4ea7c]" started-at="2023-04-13T15:27:12 IST" name="openDashboard" finished-at="2023-04-13T15:27:14 IST" duration-ms="2508" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Title Match Successfully!!!]]>
@@ -467,17 +467,17 @@
             </line>
           </reporter-output>
         </test-method> <!-- openDashboard -->
-        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_Registration.Opening_RegisterPage_to_dashboard@8f4ea7c]" started-at="2023-04-13T11:59:20 IST" name="closeapplication" finished-at="2023-04-13T11:59:20 IST" duration-ms="169" status="PASS">
+        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_Registration.Opening_RegisterPage_to_dashboard@8f4ea7c]" started-at="2023-04-13T15:27:14 IST" name="closeapplication" finished-at="2023-04-13T15:27:14 IST" duration-ms="192" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeapplication -->
       </class> <!-- freamwork_design_scripts_Registration.Opening_RegisterPage_to_dashboard -->
       <class name="freamwork_design_scripts.Opening_LoginPage">
-        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts.Opening_LoginPage@2d7275fc]" started-at="2023-04-13T11:58:31 IST" name="openapplication" finished-at="2023-04-13T11:58:35 IST" duration-ms="3649" status="PASS">
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts.Opening_LoginPage@2d7275fc]" started-at="2023-04-13T15:26:24 IST" name="openapplication" finished-at="2023-04-13T15:26:28 IST" duration-ms="3732" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openapplication -->
-        <test-method signature="openloginpager()[pri:0, instance:freamwork_design_scripts.Opening_LoginPage@2d7275fc]" started-at="2023-04-13T11:58:35 IST" name="openloginpager" finished-at="2023-04-13T11:58:39 IST" duration-ms="3593" status="PASS">
+        <test-method signature="openloginpager()[pri:0, instance:freamwork_design_scripts.Opening_LoginPage@2d7275fc]" started-at="2023-04-13T15:26:28 IST" name="openloginpager" finished-at="2023-04-13T15:26:31 IST" duration-ms="3004" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Title Match Successfully!!!]]>
@@ -487,17 +487,17 @@
             </line>
           </reporter-output>
         </test-method> <!-- openloginpager -->
-        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts.Opening_LoginPage@2d7275fc]" started-at="2023-04-13T11:58:39 IST" name="closeapplication" finished-at="2023-04-13T11:58:39 IST" duration-ms="420" status="PASS">
+        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts.Opening_LoginPage@2d7275fc]" started-at="2023-04-13T15:26:31 IST" name="closeapplication" finished-at="2023-04-13T15:26:31 IST" duration-ms="232" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeapplication -->
       </class> <!-- freamwork_design_scripts.Opening_LoginPage -->
       <class name="freamwork_design_scripts_TestCase.Opening_TestcasePage_to_dashboard">
-        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_TestCase.Opening_TestcasePage_to_dashboard@223d2c72]" started-at="2023-04-13T11:59:10 IST" name="openapplication" finished-at="2023-04-13T11:59:12 IST" duration-ms="2338" status="PASS">
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_TestCase.Opening_TestcasePage_to_dashboard@223d2c72]" started-at="2023-04-13T15:27:05 IST" name="openapplication" finished-at="2023-04-13T15:27:07 IST" duration-ms="2088" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openapplication -->
-        <test-method signature="openDashboard()[pri:0, instance:freamwork_design_scripts_TestCase.Opening_TestcasePage_to_dashboard@223d2c72]" started-at="2023-04-13T11:59:12 IST" name="openDashboard" finished-at="2023-04-13T11:59:15 IST" duration-ms="2560" status="PASS">
+        <test-method signature="openDashboard()[pri:0, instance:freamwork_design_scripts_TestCase.Opening_TestcasePage_to_dashboard@223d2c72]" started-at="2023-04-13T15:27:07 IST" name="openDashboard" finished-at="2023-04-13T15:27:09 IST" duration-ms="2581" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Title Match Successfully!!!]]>
@@ -507,17 +507,17 @@
             </line>
           </reporter-output>
         </test-method> <!-- openDashboard -->
-        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_TestCase.Opening_TestcasePage_to_dashboard@223d2c72]" started-at="2023-04-13T11:59:15 IST" name="closeapplication" finished-at="2023-04-13T11:59:15 IST" duration-ms="185" status="PASS">
+        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_TestCase.Opening_TestcasePage_to_dashboard@223d2c72]" started-at="2023-04-13T15:27:09 IST" name="closeapplication" finished-at="2023-04-13T15:27:10 IST" duration-ms="168" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeapplication -->
       </class> <!-- freamwork_design_scripts_TestCase.Opening_TestcasePage_to_dashboard -->
       <class name="freamwork_design_scripts_TestCase.Opening_Testcasepage_to_Register">
-        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_TestCase.Opening_Testcasepage_to_Register@10e31a9a]" started-at="2023-04-13T11:59:36 IST" name="openapplication" finished-at="2023-04-13T11:59:39 IST" duration-ms="2479" status="PASS">
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_TestCase.Opening_Testcasepage_to_Register@10e31a9a]" started-at="2023-04-13T15:27:29 IST" name="openapplication" finished-at="2023-04-13T15:27:31 IST" duration-ms="2113" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openapplication -->
-        <test-method signature="openRegister()[pri:0, instance:freamwork_design_scripts_TestCase.Opening_Testcasepage_to_Register@10e31a9a]" started-at="2023-04-13T11:59:39 IST" name="openRegister" finished-at="2023-04-13T11:59:41 IST" duration-ms="2589" status="PASS">
+        <test-method signature="openRegister()[pri:0, instance:freamwork_design_scripts_TestCase.Opening_Testcasepage_to_Register@10e31a9a]" started-at="2023-04-13T15:27:31 IST" name="openRegister" finished-at="2023-04-13T15:27:34 IST" duration-ms="2549" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Title Match Successfully!!!]]>
@@ -527,17 +527,17 @@
             </line>
           </reporter-output>
         </test-method> <!-- openRegister -->
-        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_TestCase.Opening_Testcasepage_to_Register@10e31a9a]" started-at="2023-04-13T11:59:41 IST" name="closeapplication" finished-at="2023-04-13T11:59:41 IST" duration-ms="192" status="PASS">
+        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_TestCase.Opening_Testcasepage_to_Register@10e31a9a]" started-at="2023-04-13T15:27:34 IST" name="closeapplication" finished-at="2023-04-13T15:27:34 IST" duration-ms="189" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeapplication -->
       </class> <!-- freamwork_design_scripts_TestCase.Opening_Testcasepage_to_Register -->
       <class name="freamwork_design_scripts_Dashboard.Opening_Dashboard_to_testcase">
-        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_Dashboard.Opening_Dashboard_to_testcase@74fe5c40]" started-at="2023-04-13T11:59:25 IST" name="openapplication" finished-at="2023-04-13T11:59:28 IST" duration-ms="2815" status="PASS">
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:freamwork_design_scripts_Dashboard.Opening_Dashboard_to_testcase@74fe5c40]" started-at="2023-04-13T15:27:19 IST" name="openapplication" finished-at="2023-04-13T15:27:22 IST" duration-ms="2252" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openapplication -->
-        <test-method signature="opentestcase()[pri:0, instance:freamwork_design_scripts_Dashboard.Opening_Dashboard_to_testcase@74fe5c40]" started-at="2023-04-13T11:59:28 IST" name="opentestcase" finished-at="2023-04-13T11:59:31 IST" duration-ms="2539" status="PASS">
+        <test-method signature="opentestcase()[pri:0, instance:freamwork_design_scripts_Dashboard.Opening_Dashboard_to_testcase@74fe5c40]" started-at="2023-04-13T15:27:22 IST" name="opentestcase" finished-at="2023-04-13T15:27:24 IST" duration-ms="2595" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Title Match Successfully!!!]]>
@@ -547,7 +547,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- opentestcase -->
-        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_Dashboard.Opening_Dashboard_to_testcase@74fe5c40]" started-at="2023-04-13T11:59:31 IST" name="closeapplication" finished-at="2023-04-13T11:59:31 IST" duration-ms="215" status="PASS">
+        <test-method is-config="true" signature="closeapplication()[pri:0, instance:freamwork_design_scripts_Dashboard.Opening_Dashboard_to_testcase@74fe5c40]" started-at="2023-04-13T15:27:24 IST" name="closeapplication" finished-at="2023-04-13T15:27:24 IST" duration-ms="158" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeapplication -->

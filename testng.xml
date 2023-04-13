@@ -18,9 +18,9 @@
       <class name="freamwork_design_scripts_TestCase.Opening_Testcasepage_to_Register"/>
       <class name="freamwork_design_scripts_Registration.Opening_registrationpage_to_login"/>
       <class name="freamwork_design_scripts_Registration.Opening_registration_to_testcase"/>
-      <class name="freamwork_design_scripts.Do_Registration_logout"/>
       <class name="freamwork_design_scripts.Opening_RegisterPage"/>
       <class name="freamwork_design_scripts.Opening_TestCasePage"/>
+      <class name="freamwork_design_scripts_System_Test_Cases.Do_Registration_logout"/>
       <class name="freamwork_design_scripts.Opening_DashboardPage"/>
       <class name="freamwork_design_scripts_Loginpage.Opening_DashboardPage_from_loginpage"/>
       <class name="freamwork_design_scripts_TestCase.Opening_Testcasepage_to_home"/>
