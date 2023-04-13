@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="freamwork_design_scripts.Opening_LoginPage"/>
+      <class name="freamwork_design_scripts_Dashboard.Opening_Dashboard_to_Register"/>
+      <class name="freamwork_design_scripts_Registration.Opening_Registrationpage_to_home"/>
+      <class name="freamwork_design_scripts_Loginpage.Opening_TestCasePage_from_loginpage"/>
+      <class name="freamwork_design_scripts_Loginpage.Opening_homepage_from_loginpage"/>
+      <class name="freamwork_design_scripts_Loginpage.Opening_RegisterPage_from_loginpage"/>
+      <class name="freamwork_design_scripts_Dashboard.Opening_Dashboardpage_to_home"/>
+      <class name="freamwork_design_scripts_TestCase.Opening_TestcasePage_to_dashboard"/>
+      <class name="freamwork_design_scripts_Registration.Opening_RegisterPage_to_dashboard"/>
+      <class name="freamwork_design_scripts_TestCase.Opening_Testcasepage_to_login"/>
+      <class name="freamwork_design_scripts_Dashboard.Opening_Dashboard_to_testcase"/>
+      <class name="freamwork_design_scripts_Dashboard.Opening_dashboard_to_login"/>
+      <class name="freamwork_design_scripts_TestCase.Opening_Testcasepage_to_Register"/>
+      <class name="freamwork_design_scripts_Registration.Opening_registrationpage_to_login"/>
+      <class name="freamwork_design_scripts_Registration.Opening_registration_to_testcase"/>
+      <class name="freamwork_design_scripts.Do_Registration_logout"/>
+      <class name="freamwork_design_scripts.Opening_RegisterPage"/>
+      <class name="freamwork_design_scripts.Opening_TestCasePage"/>
+      <class name="freamwork_design_scripts.Opening_DashboardPage"/>
+      <class name="freamwork_design_scripts_Loginpage.Opening_DashboardPage_from_loginpage"/>
+      <class name="freamwork_design_scripts_TestCase.Opening_Testcasepage_to_home"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
