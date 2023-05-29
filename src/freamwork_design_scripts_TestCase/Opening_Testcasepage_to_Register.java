@@ -13,7 +13,7 @@ import freamwork_design_generic.OpenCloseClass;
 import freamwork_design_generic.Reading_Data;
 
 public class Opening_Testcasepage_to_Register extends OpenCloseClass {
-	@Test
+@Test
 public void openRegister() throws IOException, InterruptedException {
 		Home homepage= new Home(driver);
 		homepage.clicktestcaselink();
